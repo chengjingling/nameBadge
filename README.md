@@ -1,6 +1,6 @@
 # Name Badge
 
-<img src="Screenshot.png" width="500">
+<img src="Screenshot.png" width="300">
 
 ## About
 
